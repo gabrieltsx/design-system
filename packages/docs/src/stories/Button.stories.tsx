@@ -6,7 +6,7 @@ export default {
   component: Button,
 
   args: {
-    chiçdren: 'Enviar',
+    children: 'Enviar',
   },
 } as Meta<ButtonProps>
 
