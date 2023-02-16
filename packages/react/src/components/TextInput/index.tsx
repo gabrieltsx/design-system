@@ -1,5 +1,5 @@
 import { ComponentProps } from 'react'
-import { TextInputContainer, Prefix, Input } from './styles'
+import { Input, Prefix, TextInputContainer } from './styles'
 
 export interface TextInputProps extends ComponentProps<typeof Input> {
   prefix?: string
