@@ -27,7 +27,7 @@
     "vite": "^4.0.4"
   },
   "dependencies": {
-    "@igngabrieltsxite-ui/eslint-config": "*",
+    "@gabrieltsx-ui/eslint-config": "*",
     "@gabrieltsx-ui/react": "*",
     "@gabrieltsx-ui/tokens": "*",
     "@gabrieltsx-ui/ts-config": "*",
